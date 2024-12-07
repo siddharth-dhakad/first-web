@@ -1,0 +1,23 @@
+h1{
+    text-align:center;
+    color:rgb(218, 52, 52);
+}
+h2{
+    color:rgb(205, 230, 64);
+}
+div{
+    display:grid;
+}
+img{
+    font-display:calc();
+}
+a{
+    text-align:center;
+}
+p{
+    text-decoration:overline;
+    text-align: center;
+}
+img{
+    text-align: center;
+}
